@@ -12,3 +12,6 @@ Enrutador de SPA: ReachRouter
 Lighthouse y Cypress Para realizar el testing de la app
 ## Seo, PWA Y Deploy
 React Helmet, Workbox Now
+## Instalaciones
+npm install init -y
+npm install webpack webpack-cli --save-dev

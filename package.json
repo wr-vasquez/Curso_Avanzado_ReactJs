@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/wr-vasquez/Curso_Avanzado_ReactJs/issues"
   },
-  "homepage": "https://github.com/wr-vasquez/Curso_Avanzado_ReactJs#readme"
+  "homepage": "https://github.com/wr-vasquez/Curso_Avanzado_ReactJs#readme",
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
 }
