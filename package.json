@@ -1,0 +1,20 @@
+{
+  "name": "curso_avanzado_reactjs",
+  "version": "1.0.0",
+  "description": "Espacio para el Curso de React Avanzado\r En este curso se pretende Crear una app desde cero similar a instagram utilizando el manejo de rutas y gestion de usuarios \r ##  Herramientas a utilizar\r Web Pack: como empaquetador \r Babel: Para transpilar el codigo JavaScript\r Estilos: Css con Js Utilizando la libreria Styled-components\r Linter: Standard Js\r Fetching de datos: GraphQL y ReactApollo\r Enrutador de SPA: ReachRouter\r ## Para Buenas Practicas\r Lighthouse y Cypress Para realizar el testing de la app\r ## Seo, PWA Y Deploy\r React Helmet, Workbox Now",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wr-vasquez/Curso_Avanzado_ReactJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wr-vasquez/Curso_Avanzado_ReactJs/issues"
+  },
+  "homepage": "https://github.com/wr-vasquez/Curso_Avanzado_ReactJs#readme"
+}
